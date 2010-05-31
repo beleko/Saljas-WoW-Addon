@@ -14,6 +14,8 @@ Salja = AceLibrary("AceAddon-2.0"):new("AceConsole-2.0")
 function Salja:OnInitialize()
 
 
+   self:Print(" Active and Installed... |cFFFF0000[Version: 1.5] ")
+
 end
 
 
