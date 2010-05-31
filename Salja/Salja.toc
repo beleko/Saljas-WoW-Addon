@@ -1,10 +1,10 @@
-## Interface: 20000
-## Title-deDE: Salja´s WoW Addon
+## Interface: 30300
+## Title-deDE: Salja`s WoW Addon
 ## Title-enGB: Salja´s WoW Addon
 ## Notes-deDE: www.evo-X-Project.com
 ## Notes-enGB: www.evo-X-Project.com
 ## Author: Salja
-## Version: 1.1
+## Version: 1.2
 ## Dependencies:
 ## OptionalDeps: Ace2, !!Warmup
 
