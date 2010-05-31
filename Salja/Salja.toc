@@ -4,7 +4,7 @@
 ## Notes-deDE: www.evo-X-Project.com
 ## Notes-enGB: www.evo-X-Project.com
 ## Author: Salja
-## Version: 1.0
+## Version: 1.1
 ## Dependencies:
 ## OptionalDeps: Ace2, !!Warmup
 
